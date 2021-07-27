@@ -1,0 +1,6 @@
+framework module WPCategoryKit {
+  umbrella header "WPCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

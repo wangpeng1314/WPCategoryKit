@@ -1,0 +1,6 @@
+framework module Pods_WPCategoryKit_Tests {
+  umbrella header "Pods-WPCategoryKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

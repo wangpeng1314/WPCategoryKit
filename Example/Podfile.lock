@@ -1,0 +1,16 @@
+PODS:
+  - WPCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - WPCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  WPCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WPCategoryKit: 3fec901c256ed0fac9950bafa259c83f3786883f
+
+PODFILE CHECKSUM: 13a76cdc189fc90b47ee6baf9e30e8d4b7ec506a
+
+COCOAPODS: 1.10.1
